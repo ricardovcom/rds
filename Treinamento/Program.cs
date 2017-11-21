@@ -10,7 +10,7 @@ namespace Treinamento
     {
         static void Main(string[] args)
         {
-
+            Console.WriteLine('Realizei uma alteração');
         }
     }
 }
